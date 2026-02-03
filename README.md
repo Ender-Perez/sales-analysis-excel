@@ -37,7 +37,7 @@ A partir de abril, las ventas se recuperan y mantienen un comportamiento estable
 
 La disminución de ventas observada se explica principalmente por una fuerte caída en las unidades vendidas, más que por una reducción del ticket promedio.
 
-(ventas_mensuales.png)
+(images/ventas_mensuales.png)
 
 ---
 
@@ -47,7 +47,7 @@ La categoría con peor rendimiento es "Oficina", con un total de 281 unidades ve
 
 No se identificaron categorías con alto volumen de ventas y baja facturación. Las categorías analizadas mantienen una relación proporcional entre unidades vendidas y monto facturado.
 
-(ventas_categoria.png)
+(images/ventas_categoria.png)
 
 ---
 
@@ -57,7 +57,7 @@ Se identificaron los productos con menor volumen de ventas: "Impresora", "Router
 Se detecta un comportamiento atípico en el producto "Router", cuyo nivel de facturación es similar al de "Notebook", a pesar de vender menos unidades.  
 Por ejemplo, Router registra 294 unidades y $51.567.454, mientras que Notebook alcanza 366 unidades y $50.929.468, lo que sugiere un precio unitario elevado para el Router en comparación con otros productos.
 
-(bottom_productos.png)
+(images/bottom_productos.png)
 
 ---
 
